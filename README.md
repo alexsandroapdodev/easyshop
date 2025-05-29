@@ -11,7 +11,7 @@ Um site moderno para promover a facilidade das compras pelo celular. Foi desenvo
 - Design dividido entre conteúdo e visual;
 - Layout limpo e otimizado para mobile.
 
-- 
+  
 🚀 Tecnologias Utilizadas:
 
 - HTML5 semântico
