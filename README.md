@@ -1,36 +1,10 @@
-Título: Projeto Easy Shopping via Mobile.
+Easy shopping via mobile
 
-Resumo:
-
-Um site moderno para promover a facilidade das compras pelo celular. Foi desenvolvido com HTML e CSS, utilizando boas práticas de responsividade e design limpo.
-
-
-✨ Funcionalidades Principais:
-
-- Página totalmente responsivo;
-- Design dividido entre conteúdo e visual;
-- Layout limpo e otimizado para mobile.
-
-  
-🚀 Tecnologias Utilizadas:
-
-- HTML5 semântico
-- CSS3 com Flexbox
-- Responsividade
-
-  
-Diferenciais:
-
-Uso de boas práticas para garantir que o site seja acessível para o máximo de usuários possível.
-
-
-Motivação:
-
-A motivação para desenvolver este site veio da crescente importância do comércio móvel no cotidiano das pessoas.
+Uma aplicação simples de shop que tem suas manutenções e complexidades como adicionar ao carrinho, contato, serviço, roupas, gateways, apis e até aplicativo de celular. Desenvolvido na minha formação Dev Club.
 
 
 
-  Veja Aqui => https://easyshopviamobile.vercel.app
+  Veja Aqui: https://easyshopviamobile.vercel.app
 
 
 ![home](https://github.com/user-attachments/assets/980fa9c6-95d7-4519-8451-9a9597d75a99)
